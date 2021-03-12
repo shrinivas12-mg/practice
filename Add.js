@@ -1,6 +1,7 @@
 const num1 = 5;
 const num2 = 3;
+const num3 = 4;
 
-const sum = num1 + num2;
+const sum = num1 + num2 + num3;
 
-console.log('The sum of ' + num1 + ' and ' + num2 + ' is: ' + sum);
+console.log('The sum of ' + num1 + ' and ' + num2 +'and '+num3+' is: ' + sum);
